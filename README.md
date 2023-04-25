@@ -20,3 +20,4 @@ E para rodar:
 
 ### Imagem da tela
 
+![BuscaCep](https://user-images.githubusercontent.com/66024677/234353091-fb516a44-c585-4a75-b7ad-80c488328fc1.png)
